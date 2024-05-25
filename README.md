@@ -17,5 +17,4 @@ The data used in this dashboard is attached with file name covid_19_data.xlsx.
 
 ## Here's the dashboard:
 
-![Uploading covid.png…]()
 
