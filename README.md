@@ -16,5 +16,6 @@ Welcome to the COVID-19 Dashboard repository. This project is designed to visual
 The data used in this dashboard is attached with file name covid_19_data.xlsx.
 
 ## Here's the dashboard:
+![covid](https://github.com/Moon-Khan/Covid-19-Dashboard-Tableau-/assets/122151402/d19c4380-63f0-4c9f-858c-37e0ff61fee9)
 
 
