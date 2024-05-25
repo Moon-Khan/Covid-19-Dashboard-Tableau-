@@ -15,4 +15,7 @@ Welcome to the COVID-19 Dashboard repository. This project is designed to visual
 
 The data used in this dashboard is attached with file name covid_19_data.xlsx.
 
-Here's the dashboard:
+## Here's the dashboard:
+
+![Uploading covid.png…]()
+
